@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+build/*
+
+# Images
+*.pbm
+
+# VScode stuff
+.vscode/
