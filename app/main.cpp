@@ -9,6 +9,7 @@
 #include <algorithm>
 #include <iostream> 
 #include "Rendering.hpp"
+#include <mpi.h>
 
 using namespace::VecUtils;
 
